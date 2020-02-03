@@ -1,0 +1,15 @@
+{
+  "name": "cloud-watch-metrics-loadbalancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Jain",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.6.1",
+    "elasticsearch": "^16.6.0"
+  }
+}
